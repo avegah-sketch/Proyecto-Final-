@@ -79,3 +79,11 @@ src/
 ## Documentación
 
 Documentación completa en [docs/documentacion.md](./docs/documentacion.md)
+
+## Capturas de Pantalla
+
+![Captura 1](./docs/pasted%20file.png)
+![Captura 2](./docs/pasted%20file1.png)
+![Captura 3](./docs/pasted%20file2.png)
+![Captura 4](./docs/pasted%20file4.png)
+![Captura 5](./docs/pasted%20file5.png)
